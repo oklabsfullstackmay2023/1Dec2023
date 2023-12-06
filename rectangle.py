@@ -1,0 +1,6 @@
+b=input("The value of bridth is ")
+b=int(b)
+h=input("The value of height is ")
+h=int(h)
+answer=(b*h)
+print(f"The area of rectangle is {answer}")
